@@ -9,5 +9,5 @@ export default {
 </script>
 
 <style lang="css">
-@import '~nprogress/nprogress.css';
+@import 'nprogress/nprogress.css';
 </style>
